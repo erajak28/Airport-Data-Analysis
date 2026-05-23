@@ -35,6 +35,10 @@ The project was developed using:
 * Route Analysis
 * Geographic Analysis
 
+* ## Dashboard Preview
+
+![Dashboard](Dashboard.png)
+
 ## Project Files
 
 * Jupyter Notebook
